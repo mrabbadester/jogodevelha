@@ -1,0 +1,22 @@
+body{
+
+    background-color: rgb(54, 99, 150);
+}
+
+#jogo{
+    width:603px;
+    height:600px;
+    border:solid 5px;
+}
+ 
+.linha{
+    height:200px;
+    border-bottom:solid 1px;
+}
+ 
+.quadro{
+    width:200px;
+    height: 100%;
+    border-right:solid 1px;
+    float:left;
+}
